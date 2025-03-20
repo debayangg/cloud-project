@@ -2,6 +2,8 @@
 
 This is a personal expense tracker web application built using Django. It allows users to log their expenses, categorize them, and provides automated expense categorization and future expense prediction features. This README.md file provides instructions for setting up and running the application on your local machine, as well as some additional information about its features and usage.
 
+**Video** - https://github.com/debayangg/cloud-project/blob/main/cloud_project.mp4
+
 ## Features
 
 - **Expense Logging**: Easily log your daily expenses, including the date, description, amount, and category.

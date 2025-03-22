@@ -77,11 +77,3 @@ To run this application locally, follow these steps:
 4. View your expense history, categorized expenses, and future expense predictions on the dashboard.
 
 5. To access the admin panel, go to `http://localhost:8000/admin/` and log in with your superuser credentials. From the admin panel, you can manage users, categories, and view the database.
-
-## Acknowledgments
-
-- Thanks to the Django community for creating such a powerful web framework.
-
-- The automated expense categorization and prediction features are powered by machine learning models, which were trained using various open-source libraries and datasets.
-
-Feel free to customize and enhance this expense tracker according to your needs. Happy budgeting!
